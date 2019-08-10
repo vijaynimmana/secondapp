@@ -1,0 +1,321 @@
+{
+   "quiz":{
+      "questions":[
+         {
+            "question_id":1,
+            "question":"When does the human body perform anaerobic respiration?",
+            "options":[
+               {
+                  "option_1":"While running vigorously",
+                  "option_2":"While heavily exercising",
+                  "option_3":"While dancing for a long time",
+                  "option_4":"All of the above"
+               }
+            ],
+            "option_right":1,
+            "explanation":"All the activities like running vigorously, heavily exercising and dancing are strenuous activities which demand a lot of energy. But the oxygen is not enough to perform aerobic respiration. So, the cells undergo anaerobic respiration to meet the energy demand.",
+				"question_type":"E",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":25,
+            "lecture_title":"Respiration in Organisms",
+            "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+			{
+            "question_id":2,
+            "question":"The breathing rate generally refers to the _______.",
+            "options":[
+               {  
+                  "option_1":"Number of breaths per second",
+                  "option_2":"Number of breaths per minute",
+                  "option_3":"Number of breaths per hour",
+                  "option_4":"None of the above"
+               }
+            ],
+            "option_right":2,
+            "explanation":"The breathing rate refers to the number of breaths per second.",
+				"question_type":"E",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":26,
+            "lecture_title":"What Is Breathing?",
+            "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+			{
+            "question_id":3,
+            "question":"The trachea splits into  ___ each of which is directed towards ___.",
+            "options":[
+               {  
+                  "option_1":"2 branches, a lung",
+                  "option_2":"Many alveoli, either lung",
+                  "option_3":"4 branches, both the lungs",
+                  "option_4":"Many alveoli, a lung"
+               }
+            ],
+            "option_right":1,
+            "explanation":"The trachea forms two branches at the end, each of which is connected to one of the two lungs.",
+				"question_type":"E",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":27,
+            "lecture_title":"The Respiratory System",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+			{
+            "question_id":4,
+            "question":"Why does the volume of the chest cavity increases while inhalation?",
+            "options":[
+               {  
+                  "option_1":"The diaphragm moves downwards",
+                  "option_2":"The rib cage moves outwards",
+                  "option_3":"The rib cage moves upwards",
+                  "option_4":"All of the above"
+               }
+            ],
+            "option_right":4,
+            "explanation":"The ribs move outwards and upwards and the diaphragm moves downwards to create room for the inhaled air. Hence, the volume of the chest cavity increases.",
+				"question_type":"E",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":28,
+            "lecture_title":"How Do We Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+         {
+            "question_id":5, 
+            "question":"A cockroach has spiracles which are tiny pores located ______.",
+            "options":[
+               {  
+                  "option_1":"On its head",
+                  "option_2":"On the sides of its body",
+                  "option_3":"Under its wings",
+                  "option_4":"All of the above"
+               }
+            ],
+            "option_right":2,
+            "explanation":"The spiracles are tiny pores located on the side of the body of a cockroach. These pores help it in breathing.",
+				"question_type":"E",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":29,
+            "lecture_title":"How Do Invertebrates Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+         {
+            "question_id":6,
+            "question":"In which of the following habitats are gills used for respiration?",
+            "options":[
+               {  
+                  "option_1":"Terrestrial habitat",
+                  "option_2":"Aquatic habitat",
+                  "option_3":"Extreme habitat",
+                  "option_4":"Microhabitat"
+               }
+            ],
+            "option_right":2,
+            "explanation":"Gills are used for respiration in fish. They are used to exchange gases, transfer water and other substances.",
+				"question_type":"E",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":30,
+            "lecture_title":"How Do Aquatic Animals Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+			{
+            "question_id":7, 
+            "question":"Which of the following activities does NOT increase the breathing rate of a person?",
+            "options":[
+               {  
+                  "option_1":"Exercising",
+                  "option_2":"Climbing up a staircase",
+                  "option_3":"Completing homework",
+                  "option_4":"Watching a horror movie"
+               }
+            ],
+            "option_right":3,
+            "explanation":"Physical activities like exercising and climbing up a staircase tend to increase the breathing rate. Watching a horror movie may cause excitement and anticipation which may lead to an increased breathing rate. On the other hand, completing homework does not increase the breathing rate.",
+				"question_type":"E",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":26,
+            "lecture_title":"What Is Breathing?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+         {
+            "question_id":8,
+            "question":"Pick the odd one out.",
+            "options":[
+               {  
+                  "option_1":"Alveoli",
+                  "option_2":"Nose",
+                  "option_3":"Nasal chamber",
+                  "option_4":"Trachea"
+               }
+            ],
+            "option_right":1,
+            "explanation":"Alveoli are involved in the process of respiration. Whereas nose, nasal chamber and trachea are involved in breathing.",
+				"question_type":"M",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":28,
+            "lecture_title":"How Do We Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+			{
+            "question_id":9,
+            "question":"Humans : _____ :: _____: Spiracles:: Earthworms : ___.",
+            "options":[
+               {  
+                  "option_1":"Nostrils, Trachea, skin",
+                  "option_2":"Trachea, cockroach, spiracles",
+                  "option_3":"Nostrils, cockroach, pores on the skin",
+                  "option_4":"Trachea, pores on the skin, spiracles"
+               }
+            ],
+            "option_right":3,
+            "explanation":"Humans breathe through their nostrils. Similarly, cockroaches breathe through spiracles and earthworms breathe through the pores on their skin.",
+				"question_type":"M",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":29,
+            "lecture_title":"How Do Invertebrates Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+			{
+            "question_id":10,
+            "question":"Read the following statements about invertebrates like worms and insects and choose the correct option from below.<p>I. They breathe and respire to generate energy.</p><p>II. The have air bags where they store air for later use.</p><p>III. They do not have specific organs for the exchange of gases.</p><p>IV. They do not have well developed respiratory systems.</p><p>V. They can hold their breath for a long time.</p>",
+            "options":[
+               {  
+                  "option_1":"Only I and V are correct",
+                  "option_2":"II and III are incorrect",
+                  "option_3":"III and IV are correct",
+                  "option_4":"II and V are correct"
+               }
+            ],
+            "option_right":2,
+            "explanation":"<p>Invertebrates, like other animals, breathe and respire to generate energy.</p><p>They do not have air bags to store air for later use.</p><p>They have specific organs for exchange of gases (like spiracles) with the surroundings.</p><p>Their respiratory system is not well developed. They do not have lungs, alveoli etc.</p><p>Invertebrates are capable of holding their breath for a long time.</p>",
+				"question_type":"M",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":29,
+            "lecture_title":"How Do Invertebrates Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+         {
+            "question_id":11,
+            "question":"Level of oxygen in water is ________ the level of oxygen in the atmosphere.",
+            "options":[
+               {  
+                  "option_1":"More than",
+                  "option_2":"Less than",
+                  "option_3":"Equal to",
+                  "option_4":"Not comparable with"
+               }
+            ],
+            "option_right":2,
+            "explanation":"Only a small amount of oxygen can dissolve in a given amount of water . Hence, water is not as oxygen-rich as air.",
+				"question_type":"M",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":30,
+            "lecture_title":"How Do Aquatic Animals Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+         {
+            "question_id":12,
+            "question":"The process of respiration in plants occurs only when:",
+            "options":[
+               {  
+                  "option_1":"Stomata are open",
+                  "option_2":"Photosynthesis ceases",
+                  "option_3":"Photosynthesis is in progress",
+                  "option_4":"At all times"
+               }
+            ],
+            "option_right":4,
+            "explanation":"Respiration occurs at all times in a plant, just like any other living organism.",
+				"question_type":"M",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":31,
+            "lecture_title":"How Do Plants Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+         {
+            "question_id":13,
+            "question":"The following table shows the difference between breathing and respiration. Complete it by filling in the numbered cells.<table class='quiz-table' cellspacing='0' cellpadding='0' style='text-align:center;'><tr><th>Breathing</th><th>Respiration</th></tr><tr><td>A physical process</td><td>1</td></tr><tr><td>2</td><td>Production of energy</td></tr><tr><td>Lungs</td><td>3</td></tr></table>",
+            "options":[
+               {  
+                  "option_1":"1&rarr;a complete process, 2&rarr;filtration of dust particles, 3&rarr;cells",
+                  "option_2":"1&rarr;an incomplete process, 2&rarr;oxygen and carbon dioxide, 3&rarr;organs",
+                  "option_3":"1&rarr;a chemical process, 2&rarr;nose and nasal chamber, 3&rarr;tissue",
+                  "option_4":"1&rarr;a chemical process, 2&rarr;inhalation and exhalation, 3&rarr;cells"
+               }
+            ],
+            "option_right":4,
+            "explanation":"<p>Breathing is a physical process. Respiration is a chemical process where glucose is broken down to produce energy.</p><p>Breathing involves inhalation of oxygen and exhalation of carbon dioxide. Respiration involves production of energy.</p><p>Breathing takes place in the lungs. Respiration takes place in the cells.</p>",
+				"question_type":"M",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":28,
+            "lecture_title":"How Do We Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+         {
+            "question_id":14, 
+            "question":"Statement 1: Stomata are present on the lower side of leaves in floating aquatic plants.<p>Statement 2:  In floating aquatic plants, exchange of gases takes place through stomata.</p>",
+            "options":[
+               {  
+                  "option_1":"A and R are correct and R is the correct explanation of A",
+                  "option_2":"A and R are correct and R is not the correct explanation of A",
+                  "option_3":"A is correct, R is incorrect",
+                  "option_4":"A is incorrect, R is correct"
+               }
+            ],
+            "option_right":4,
+            "explanation":"In floating aquatic plants, leaves float on the surface of water. Unlike others, these plants have stomata on the upper surface of the leaves to enable gaseous exchange.",
+				"question_type":"H",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":31,
+            "lecture_title":"How Do Plants Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         },
+			{
+            "question_id":15,
+            "question":"What is the importance of respiration and photosynthesis in plants respectively?",
+            "options":[
+               {  
+                  "option_1":"Removal of excess water and release of oxygen",
+                  "option_2":"Release of energy and preparation of food",
+                  "option_3":"Preparation of food and removal of excess water",
+                  "option_4":"Release of carbon dioxide and release of energy"
+               }
+            ],
+            "option_right":2,
+            "explanation":"<p>Respiration is an important process through which energy required by other life processes is generated.</p><p>Photosynthesis is a process through which the plants prepare their own food (glucose).</p>",
+				"question_type":"H",
+            "subject_id":3,
+            "section_id":4,
+            "lecture_id":31,
+            "lecture_title":"How Do Plants Breathe?",
+             "section_title":"Respiration in Organisms",
+            "mock_test":"M6"
+         }
+	   ]
+	}
+}
